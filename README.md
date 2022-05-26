@@ -2,6 +2,7 @@
 - I am a student at JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY,GUNA.
 - 👀 I’m interested in Python , programming,web dev,etc.
 - 🌱 I’m currently learning Data Structures and Oops concepts
+- currently I am working on CSS,HTML,JS and Machine Learning
 - 📫 Reach me by kriti152002@gmail.com
 
 <!---
