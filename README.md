@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KritiGupta2022
+- 👋 Hi, I’m @Kriti Gupta
 - I am a student at JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY,GUNA.
 - 👀 I’m interested in Python , programming,web dev,etc.
 - 🌱 I’m currently learning Data Structures and Oops concepts
