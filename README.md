@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kriti Gupta
 - I am a student at JAYPEE UNIVERSITY OF ENGINEERING AND TECHNOLOGY,GUNA.
 - 👀 I’m interested in Python , programming,web dev,etc.
-- 🌱 I’m currently learning Data Structures and Oops concepts
-- currently I am working on CSS,HTML,JS and Machine Learning
-- 📫 Reach me by kriti152002@gmail.com
+- 🌱 I’m currently learning Web development technologies.
+- I am working on Web Development and Machine Learning
+- 📫 Reach me by kritigupta594@gmail.com
 
 <!---
 KritiGupta2022/KritiGupta2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
